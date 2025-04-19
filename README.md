@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Setup steps
 
 
-1. To start the application `npm start`
+1. Traverse into code repo and execute `node i` to install packages
+2. To start the application `npm start`
  
 ## Available Scripts
 
